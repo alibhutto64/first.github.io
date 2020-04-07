@@ -5,7 +5,7 @@ const encoded = Base64.encode(`
         "remarks" : "",
         "id" : "826963D2EB1B0093FB9E49048A92A5F5",
         "server" : "138.68.49.3",
-        "server_port" : 8080,
+        "server_port" : 443,
         "server_udp_port" : 0,
         "password" : "pakistan12",
         "method" : "chacha20",
