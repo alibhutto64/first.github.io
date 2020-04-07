@@ -1,0 +1,23 @@
+{
+  "name": "first.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alibhutto64/first.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alibhutto64/first.github.io/issues"
+  },
+  "homepage": "https://github.com/alibhutto64/first.github.io#readme",
+  "dependencies": {
+    "js-base64": "^2.5.2"
+  }
+}
